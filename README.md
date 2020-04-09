@@ -8,7 +8,7 @@ server and a client.
 ## Instruction
 ### Implement the message model
 Message model is the message payload that will be exchanged between the client and the server. Implement the Message
-class in chat module. Make sure you cover all there basic actions.
+class in chat module. Make sure you cover all three basic actions.
 1. ENTER
 2. CHAT
 3. LEAVE
